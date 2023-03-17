@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(){
+
+   print("Hello, I'm Jimin. I am Hana's friend");
+
+}
