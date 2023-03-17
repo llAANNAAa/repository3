@@ -4,4 +4,5 @@ int main(){
 
    print("Hello, I'm Jimin. I am Hana's friend. lol");
 
+   print("I want to go home.");
 }
